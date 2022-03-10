@@ -44,7 +44,7 @@ const Activitie = () => {
       </CardActionArea>
       <Button>
         <Link to="/" style={{ textDecoration: "none" }}>
-          Volver
+          Home
         </Link>
       </Button>
     </Card>
