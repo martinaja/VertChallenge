@@ -31,7 +31,7 @@ const Activities = (activitie) => {
       </CardContent>
       <CardContent>
         <Link to={`/activitie/${id}`} style={{ textDecoration: "none" }}>
-          ver
+          See More
         </Link>
       </CardContent>
     </Card>
